@@ -1,0 +1,2 @@
+Questão 1: Uma ponte sobre um rio contém apenas uma única faixa, mas os carros entram nas duas direções. Consequentemente, é necessário algum tipo de sincronização para impedir que os carros colidam. Implemente um programa (em duas linguagens diferentes) que modele esta situação. Considere ainda duas versões do programa: com e sem sincronização de acesso à ponte. Procure utilizar o máximo possível de suporte à concorrência fornecido pelas linguagens (abstrações, primitivas).
+
